@@ -5519,3 +5519,48 @@ Parameter name: culture
 [Info | 8:35:05 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
 [Info | 8:35:05 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
 [Info | 8:38:51 PM | 11] Queue processing running. Events processed: 8
+[Info | 8:40:28 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:40:28 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:41:40 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:41:40 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:43:33 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:43:33 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:43:40 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:43:41 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:43:49 PM | 13] Starting periodic game DB update check
+[Info | 8:43:49 PM | 13] Checking for new Game Info DB version from https://cdn.medal.tv/asset/games-db/production/version.json
+[Info | 8:43:49 PM | 13] Remote Info: {"Version":"2.1764","Command":"none","Environment":"production"}
+[Info | 8:43:49 PM | 13] Local Info: {"Version":"2.1764","Command":"none","Environment":"production"}
+[Info | 8:43:49 PM | 13] Periodic game DB update check: no update available
+[Info | 8:43:51 PM | 11] Queue processing running. Events processed: 8
+[Info | 8:53:54 PM | 29] 2 logs of- Queue processing running. Events processed: 8
+[Info | 8:53:54 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:54:01 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:54:15 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:54:16 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:55:26 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:55:27 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:55:30 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:55:30 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:56:06 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:56:08 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:56:36 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:56:36 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:57:04 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:57:05 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:57:22 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:57:23 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:57:44 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:57:44 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:57:56 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:57:56 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:58:21 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:58:22 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:58:37 PM | 29] [SDL Recorder] Capture ENABLED (gameTarget=True, focused=True)
+[Info | 8:58:37 PM | 29] [SDL Recorder] Capture DISABLED (gameTarget=True, focused=False)
+[Info | 8:58:49 PM | 13] Starting periodic game DB update check
+[Info | 8:58:49 PM | 13] Checking for new Game Info DB version from https://cdn.medal.tv/asset/games-db/production/version.json
+[Info | 8:58:49 PM | 13] Remote Info: {"Version":"2.1764","Command":"none","Environment":"production"}
+[Info | 8:58:49 PM | 13] Local Info: {"Version":"2.1764","Command":"none","Environment":"production"}
+[Info | 8:58:49 PM | 13] Periodic game DB update check: no update available
+[Info | 8:58:51 PM | 12] Queue processing running. Events processed: 8
